@@ -49,7 +49,7 @@
   text-align: center;
   width: 260px;
 }
-.container .result .detail h3 {
+.container .result .detail h1 {
   margin-bottom: 10px;
   font-size: 2rem;
   font-weight: 500;
@@ -105,7 +105,7 @@
   background-color: rgba(255, 87, 87, 0.0666666667);
 }
 .container .summary__list .memory {
-  color: #ffb063;
+  color: #FFB21E;
   background-color: rgba(255, 177, 99, 0.0666666667);
 }
 .container .summary__list .verbal {
